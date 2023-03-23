@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Trang chủ"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/nav_trangchu"/>
+
+    <item android:title="Giải trí"
+        android:icon="@drawable/ic_game"
+        android:id="@+id/nav_game"/>
+
+    <item android:title="Thể thao"
+        android:icon="@drawable/ic_sport"
+        android:id="@+id/nav_sport"/>
+
+    <item android:title="Khoa học"
+        android:icon="@drawable/ic_weather"
+        android:id="@+id/nav_weather"/>
+</menu>

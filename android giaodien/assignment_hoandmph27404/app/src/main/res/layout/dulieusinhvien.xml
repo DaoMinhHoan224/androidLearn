@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_svSTT"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:textSize="15dp"/>
+    <TextView
+        android:id="@+id/tv_class"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="Lớp"
+        android:layout_marginLeft="10dp"
+        android:textSize="15dp"/>
+    <TextView
+        android:id="@+id/tv_namesv"
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:text="Tên sinh viên "
+        android:layout_marginLeft="10dp"
+        android:textSize="15dp"/>
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:text="Ngày sinh"
+        android:layout_marginLeft="10dp"
+        android:textSize="15dp"/>
+    <TextView
+        android:id="@+id/tv_sdt"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:onClick="eventCall"
+        android:text="SDT"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/tv_del"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="Xóa"
+        android:textColor="@color/design_default_color_error"
+        android:textColorHint="@color/black"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/tv_update"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:onClick="update"
+        android:text="Sửa"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="15dp" />
+
+
+
+
+</LinearLayout>

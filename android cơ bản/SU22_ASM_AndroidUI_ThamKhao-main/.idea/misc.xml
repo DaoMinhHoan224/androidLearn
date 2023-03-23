@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.1721014492753623" />
+        <entry key="app/src/main/res/drawable/ic_menu.xml" value="0.1085" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1817581176757813" />
+        <entry key="app/src/main/res/layout/chi_fragment.xml" value="0.1490036231884058" />
+        <entry key="app/src/main/res/layout/dialog_suakhoanthu.xml" value="0.1721014492753623" />
+        <entry key="app/src/main/res/layout/dialog_sualoaithu.xml" value="0.1721014492753623" />
+        <entry key="app/src/main/res/layout/dialog_themkhoanthu.xml" value="0.1721014492753623" />
+        <entry key="app/src/main/res/layout/dialog_themloaithu.xml" value="0.1721014492753623" />
+        <entry key="app/src/main/res/layout/header_layout.xml" value="0.25905797101449274" />
+        <entry key="app/src/main/res/layout/item_khoanthu.xml" value="0.23815460205078126" />
+        <entry key="app/src/main/res/layout/item_loaithu.xml" value="0.354668282771456" />
+        <entry key="app/src/main/res/layout/khoanchi_fragment.xml" value="0.1490036231884058" />
+        <entry key="app/src/main/res/layout/khoanthu_fragment.xml" value="0.1490036231884058" />
+        <entry key="app/src/main/res/layout/loaichi_fragment.xml" value="0.1490036231884058" />
+        <entry key="app/src/main/res/layout/loaithu_fragment.xml" value="0.1979141456493433" />
+        <entry key="app/src/main/res/layout/thongke_fragment.xml" value="0.3416244727977808" />
+        <entry key="app/src/main/res/layout/thu_fragment.xml" value="0.1490036231884058" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.29711153334465584" />
+        <entry key="app/src/main/res/menu/menu_drawer.xml" value="0.21354166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lamlaiday04</string>
+    <string name="name_account">Hoanratdeptrai</string>
+    <string name="email_account">asdha@gmail.com</string>
+    <string name="home">Home</string>
+    <string name="bai1">Bài 1</string>
+    <string name="bai2">Bài 2</string>
+    <string name="opendrawer">opendrawer</string>
+    <string name="closedrawer">closedrawer</string>
+</resources>

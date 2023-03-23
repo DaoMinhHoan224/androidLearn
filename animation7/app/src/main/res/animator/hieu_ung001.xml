@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="sequentially">
+
+<!--     di chuyển theo chiều dọc
+duration:thời gian thực hiện chuyển động-->
+     <objectAnimator android:propertyName="y"
+         android:duration="3000"
+         android:valueTo="900"/>
+
+<!--     //di chuyển theo chiều ngang-->
+     <objectAnimator android:propertyName="x"
+         android:duration="3000"
+         android:valueTo="1000"
+         android:valueFrom="-1000"/>
+
+<!--     //chiều rộng-->
+     <objectAnimator android:propertyName="scaleX"
+          android:valueTo="10"
+          android:duration="1000"/>
+
+<!--     //chiều dài-->
+     <objectAnimator android:propertyName="scaleY"
+          android:valueTo="5"
+          android:duration="1000"/>
+
+<!--     //quay vòng-->
+     <objectAnimator android:propertyName="rotation"
+          android:valueTo="400"
+          android:duration="3000"/>
+
+     <set>
+          <objectAnimator android:propertyName="scaleX"
+               android:valueTo="2.5"
+               android:duration="1000"/>
+     <objectAnimator android:propertyName="scaleY"
+          android:valueTo="2"
+          android:duration="1000"/>
+     </set>
+
+     <objectAnimator android:propertyName="alpha"
+          android:valueTo="0"
+          android:duration="1000"/>
+
+     <objectAnimator android:propertyName="alpha"
+          android:valueTo="1"
+          android:duration="4000"/>
+</set>

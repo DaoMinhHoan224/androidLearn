@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bai1.bai1"
+    android:background="#C84949">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+
+        android:id="@+id/tv_nameb1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="man hinh bai 1" />
+
+    <ToggleButton
+        android:id="@+id/id_toggle"
+        android:layout_width="132dp"
+        android:layout_height="59dp"
+        android:textOn=""
+        android:textOff=""
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/acesct" />
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/tn"
+        android:text="hello frbeikghvhvbadlfvbasvhadflijsvha;sdfjhvbnaldscbvnadlfgvladfvbd"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+
+</FrameLayout>

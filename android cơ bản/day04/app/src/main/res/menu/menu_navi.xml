@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:title="@string/home"
+            android:icon="@drawable/ic_home"/>
+
+        <item
+            android:id="@+id/bai1"
+            android:title="@string/bai1"
+            android:icon="@drawable/ic_baseline"/>
+
+        <item
+            android:id="@+id/bai2"
+            android:title="@string/bai2"
+            android:icon="@drawable/ic_baseline"/>
+        <item
+            android:id="@+id/bai3"
+            android:title="@string/bai3"
+            android:icon="@drawable/ic_baseline"/>
+        <item
+            android:id="@+id/bai4"
+            android:title="@string/bai4"
+            android:icon="@drawable/ic_baseline"/>
+        <item
+            android:id="@+id/bai5"
+            android:title="@string/bai5"
+            android:icon="@drawable/ic_baseline"/>
+        <item
+            android:id="@+id/lab4"
+            android:title="@string/lab4"
+            android:icon="@drawable/ic_baseline"/>
+        <item
+            android:id="@+id/bai6"
+            android:title="Bài 6"
+            android:icon="@drawable/ic_baseline"/>
+
+        <item
+            android:id="@+id/bai7"
+            android:title="Bài 7"
+            android:icon="@drawable/ic_baseline"/>
+    </group>
+</menu>

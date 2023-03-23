@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<products>
+    <product>
+        <name>Điện thoại</name>
+        <price>300000</price>
+    </product>
+    <product>
+        <name>Máy tính</name>
+        <price>100000</price>
+    </product>
+    <product>
+        <name>Tivi</name>
+        <price>5000000</price>
+    </product>
+</products>

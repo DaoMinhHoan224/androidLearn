@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GiaoDienApplication</string>
+    <string name="name_acount">Kieu Thanh Tung</string>
+    <string name="email">kieuthanhtung2k3@gmail.com</string>
+    <string name="home">Home</string>
+    <string name="opennav">Open navingation</string>
+    <string name="closenav">Close navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

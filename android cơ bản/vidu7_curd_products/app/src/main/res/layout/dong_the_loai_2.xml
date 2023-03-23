@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_id"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:text="ID"
+        android:gravity="right"
+        android:paddingRight="8dp"
+        />
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="150dp"
+
+        android:layout_height="wrap_content"
+        android:text="Tên"
+        />
+    <TextView
+        android:id="@+id/tv_price"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:text="Price"/>
+    <TextView
+        android:id="@+id/tv_imgres"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="Img_res"/>
+    <TextView
+        android:id="@+id/tv_idcat"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="id_cat"/>
+    <TextView
+        android:id="@+id/tv_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sửa"
+        />
+    <TextView
+        android:id="@+id/tv_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Xóa"
+        android:textColor="#FD0B0B"
+        />
+</LinearLayout>

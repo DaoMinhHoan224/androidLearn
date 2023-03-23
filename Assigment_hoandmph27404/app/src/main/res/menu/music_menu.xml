@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Trang chủ"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/nav_trangchumusic"/>
+
+    <item android:title="Danh sách nhạc"
+        android:icon="@drawable/ic_library_music"
+        android:id="@+id/nav_librarymusic"/>
+
+</menu>

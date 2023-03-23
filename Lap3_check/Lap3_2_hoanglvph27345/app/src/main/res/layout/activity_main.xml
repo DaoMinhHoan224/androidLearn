@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:background="#CDE8BF">
+
+    <EditText
+        android:id="@+id/ed_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ccc"
+        android:padding="10dp"
+        android:hint="Title"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/ed_noidung"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#ccc"
+        android:padding="10dp"
+        android:hint="Nội dung"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/ed_ngaythang"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ccc"
+        android:padding="10dp"
+        android:hint="Ngày tháng"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="save"
+        android:backgroundTint="#00BCD4"
+        android:layout_marginTop="20dp"
+        android:onClick="addNewNote"/>
+
+    <ListView
+        android:id="@+id/lv_note"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"/>
+
+
+
+
+</LinearLayout>

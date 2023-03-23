@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">day04</string>
+    <string name="name_account">Minh Hoàn</string>
+    <string name="email_account">daohoan983@gmail.com</string>
+    <string name="home">Home</string>
+    <string name="bai1">Bài 1</string>
+    <string name="bai2">Bài 2</string>
+    <string name="bai3">Bài 3</string>
+    <string name="bai4">Bài 4</string>
+    <string name="bai5">Bài 5</string>
+    <string name="lab4">Lab 4</string>
+    <string name="opendrawer">opendrawer</string>
+    <string name="closedrawer">closedrawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="con1">Bố à</string>
+    <string name="bo1">uh bố đây.có chuyện gì không con</string>
+    <string name="con2">Bố khỏe không.Con đang có việc này muốn nhờ bố.Bố giúp con nhé</string>
+    <string name="bo2">Bố khỏe.Con nói thử bố nghe đây</string>
+    <string name="conba">"Chẳng là tháng trước rồi trường con có tổ chức event \n nên mỗi người đóng 500k.Nên bố cho con thêm 500k nhé.</string>
+    <string name="bo3">uh để bố gửi thêm cho.nay cũng gần cuối tháng rồi.đầu tháng bố chuyển cho</string>
+    <string name="con4">Vâng con cảm ơn bố nhiều nha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Grid_fragment">grid fragment</string>
+    <string name="Listview_fragment">listview fragment</string>
+    <string name="Spinner_fragment">spinner fragment</string>
+</resources>

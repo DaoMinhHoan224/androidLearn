@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MSI PC/AndroidStudioProjects/hoandmph27404_th2/app/src/main/res/layout/activity_main.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/MSI PC/AndroidStudioProjects/hoandmph27404_th2/app/src/main/res/layout/activity_may_tinh.xml" value="0.275" />
+        <entry key="..\:/Users/MSI PC/AndroidStudioProjects/hoandmph27404_th2/app/src/main/res/layout/goplayout.xml" value="0.275" />
+        <entry key="..\:/Users/MSI PC/AndroidStudioProjects/hoandmph27404_th2/app/src/main/res/layout/layoutinput.xml" value="0.275" />
+        <entry key="..\:/Users/MSI PC/AndroidStudioProjects/maytinh2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/MSI PC/AndroidStudioProjects/maytinh2/app/src/main/res/layout/activity_may_tinh.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/MSI PC/AndroidStudioProjects/maytinh2/app/src/main/res/layout/goplayout.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/MSI PC/AndroidStudioProjects/maytinh2/app/src/main/res/layout/layoutinput.xml" value="0.20742753623188406" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

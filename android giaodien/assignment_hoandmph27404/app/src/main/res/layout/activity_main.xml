@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/gradient_drawable"
+    tools:context=".MainActivity">
+
+<TextView
+    android:id="@+id/tv_quanly"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="QUẢN LÝ SINH VIÊN"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toLeftOf="parent"
+    android:gravity="center"
+    app:layout_constraintVertical_bias="0"
+    android:textSize="30dp"
+    android:background="@color/teal_200"
+    android:textColor="@color/white"/>
+<Button
+    android:id="@+id/btn_add"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_constraintTop_toBottomOf="@+id/tv_quanly"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintVertical_bias="0.1"
+    android:background="@drawable/border_button"
+    android:text="Thêm lớp"/>
+    <Button
+        android:id="@+id/btn_xem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/btn_add"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.01"
+        android:backgroundTint="#0097A7"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/border_button"
+        android:text="Xem danh sách lớp"/>
+    <Button
+        android:id="@+id/btn_quanlysv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/btn_xem"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.01"
+        android:backgroundTint="#0097A7"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/border_button"
+        android:text="Quản lý sinh viên"/>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

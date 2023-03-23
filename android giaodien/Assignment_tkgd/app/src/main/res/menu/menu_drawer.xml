@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mThu"
+        android:title="Thu"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item android:id="@+id/mChi"
+        android:title="Chi"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item android:id="@+id/mThongKe"
+        android:title="Thống kê"
+        android:icon="@drawable/ic_launcher_background"/>
+</menu>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Contact" android:id="@+id/nav_contact"/>
+    <item android:title="Bookmark" android:id="@+id/nav_bookmark"/>
+    <item android:title="Call logs" android:id="@+id/nav_calllog"/>
+    <item android:title="Media" android:id="@+id/nav_media"/>
+</menu>

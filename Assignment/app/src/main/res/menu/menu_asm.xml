@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/id_khoangthu"
+            android:title="@string/khoangthu"
+            android:icon="@mipmap/ic_launcher"/>
+
+        <item
+            android:id="@+id/id_khoangchi"
+            android:title="@string/khoangchi"
+            android:icon="@mipmap/ic_launcher"/>
+
+        <item
+            android:id="@+id/id_thongke"
+            android:title="@string/thongke"
+            android:icon="@mipmap/ic_launcher"/>
+
+    </group>
+
+    <item android:title="">
+
+        <menu>
+            <item
+                android:id="@+id/id_gioithieu"
+                android:title="@string/gioithieu"
+                android:icon="@mipmap/ic_launcher"/>
+
+            <item
+                android:id="@+id/id_thoat"
+                android:title="@string/thoat"
+                android:icon="@mipmap/ic_launcher"/>
+        </menu>
+    </item>
+</menu>
